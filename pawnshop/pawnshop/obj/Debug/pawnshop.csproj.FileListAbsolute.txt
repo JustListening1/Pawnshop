@@ -1,0 +1,15 @@
+C:\Users\rexna\source\repos\pawnshop\pawnshop\bin\Debug\pawnshop.exe.config
+C:\Users\rexna\source\repos\pawnshop\pawnshop\bin\Debug\pawnshop.exe
+C:\Users\rexna\source\repos\pawnshop\pawnshop\bin\Debug\pawnshop.pdb
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.csproj.AssemblyReference.cache
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.Form2.resources
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.Properties.Resources.resources
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.csproj.GenerateResource.cache
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.csproj.CoreCompileInputs.cache
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.exe
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.pdb
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.Form1.resources
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.Buyingform.resources
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.Form3.resources
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.Form4.resources
+C:\Users\rexna\source\repos\pawnshop\pawnshop\obj\Debug\pawnshop.Form5.resources
